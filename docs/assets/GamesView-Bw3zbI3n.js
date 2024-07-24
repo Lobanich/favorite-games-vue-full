@@ -1,1 +1,0 @@
-import{_ as e,o,c as s,a as t}from"./index-BqzRNiS-.js";const a={},c=t("h1",null,"My favorite games page",-1),n=[c];function r(_,i){return o(),s("div",null,n)}const d=e(a,[["render",r]]);export{d as default};
