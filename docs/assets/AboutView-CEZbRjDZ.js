@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,a as c}from"./index-BLCX11Fj.js";const s={},_={class:"about"},a=c("h1",null,"My vue project",-1),n=[a];function r(d,i){return o(),t("div",_,n)}const u=e(s,[["render",r]]);export{u as default};
